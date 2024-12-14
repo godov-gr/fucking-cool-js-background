@@ -49,7 +49,7 @@ function startMatrixRain(containerId) {
             ctx.fillStyle = 'rgba(255, 20, 147, 0.3)';
             ctx.fillText(text, x + 2, y + 2); // Тень
 
-            ctx.fillStyle = 'rgba(255, 20, 147, 1)';
+            ctx.fillStyle = 'rgb(164, 0, 179)';
             ctx.fillText(text, x, y); // Основной текст
 
             // Если символ ушел за нижнюю границу, возвращаем его наверх
