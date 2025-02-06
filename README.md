@@ -13,3 +13,7 @@
 
 ```html
 <script src="matrixRain.js"></script>
+````
+
+## Пример
+![image](https://github.com/user-attachments/assets/24468422-075b-4750-a1ba-918284a13fd3)
